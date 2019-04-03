@@ -1,6 +1,6 @@
 # Site settings
-title_left    : "The Story of"
-title_right   : "US" # default: ""
+title_left    : "the story of us"
+title_right   : "" # default: ""
 description   : "I try to record life with Mrs.He"
 keywords      : ""
 url           : https://almonotonous.github.io/the-story-of-us/ # site url
