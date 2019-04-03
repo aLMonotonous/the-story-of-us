@@ -2,6 +2,7 @@
 layout: page
 title: About
 permalink: /about/
+published: true
 ---
 
-Introduce yourself here... so people will know who you are and what you do.. blah..blah..blah..
+Mrs.He and I have been in a long distance relationship. This might last for another 3.5 years since I might work for my Ph.D.
