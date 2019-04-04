@@ -3,7 +3,7 @@ title_left     : "the story of us"
 title_right    : "" # default: ""
 description    : "I try to record life with Miss.He"
 keywords      : ""
-url          :https://almonotonous.github.io/the-story-of-us/ # site url
+url          : https://almonotonous.github.io/the-story-of-us/ # site url
 baseurl       : "" # apply repo name like "/myproject" if used under gh-pages branch, else (under master branch) just leave empty/blank
 cover         : "" # image uri like logo/cover image for site seo
 
