@@ -23,7 +23,7 @@ This is the puzzle of [game of thrones](https://en.wikipedia.org/wiki/Game_of_Th
 
 ### Hongkong and Guangzhou
 I miss the hot pot here.
-![hotpot]({{site.baseurl}}/_posts/20190206_125831.jpg)
+![hotpot](the-story-of-us/_posts/20190206_125831.jpg)
 
 ![hongkong]({{site.baseurl}}/_posts/20190208_094314.jpg)
 
