@@ -11,8 +11,12 @@ We have been in a relationship for a while, and it might be good to summarize th
 ### puzzle
 
 This is the puzzle of [game of thrones](https://en.wikipedia.org/wiki/Game_of_Thrones), I thought it might be easy as a derivative, like there might be some hint or mark in the back of every block to ease the puzzle.
+
 ![GOT puzzle]({{site.baseurl}}/_posts/20190130_121001.jpg)
 
+
+        the-story-of-us/_posts/20190208_094314.jpg
+      
 
 ### Minecraft
 
@@ -21,9 +25,9 @@ This is the puzzle of [game of thrones](https://en.wikipedia.org/wiki/Game_of_Th
 
 ### Hongkong and Guangzhou
 I miss the hot pot here.
-![hotpot]({{site.baseurl}}/_posts/20190206_125831.jpg)
+![hotpot](the-story-of-us/_posts/20190206_125831.jpg)
 
-![hongkong]({{site.baseurl}}/_posts/20190208_094314.jpg)
+![hongkong]({{site.baseurl}}/the-story-of-us/_posts/20190208_094314.jpg)
 
 ### Keyboard
 Miss. He bought this keyboard for me. Hope it can be with me for a really long time.
@@ -31,8 +35,3 @@ Miss. He bought this keyboard for me. Hope it can be with me for a really long t
 
 ### the story of us
 ![WechatIMG78.jpeg]({{site.baseurl}}/_posts/WechatIMG78.jpeg)
-
-
-
-
-
