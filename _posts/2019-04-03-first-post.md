@@ -15,6 +15,8 @@ This is the puzzle of [game of thrones](https://en.wikipedia.org/wiki/Game_of_Th
 ![GOT puzzle]({{site.baseurl}}/_posts/20190130_121001.jpg)
 
 
+        the-story-of-us/_posts/20190208_094314.jpg
+      
 
 ### Minecraft
 
@@ -25,7 +27,7 @@ This is the puzzle of [game of thrones](https://en.wikipedia.org/wiki/Game_of_Th
 I miss the hot pot here.
 ![hotpot](the-story-of-us/_posts/20190206_125831.jpg)
 
-![hongkong]({{site.baseurl}}/_posts/20190208_094314.jpg)
+![hongkong]({{site.baseurl}}/the-story-of-us/_posts/20190208_094314.jpg)
 
 ### Keyboard
 Miss. He bought this keyboard for me. Hope it can be with me for a really long time.
