@@ -12,26 +12,22 @@ We have been in a relationship for a while, and it might be good to summarize th
 
 This is the puzzle of [game of thrones](https://en.wikipedia.org/wiki/Game_of_Thrones), I thought it might be easy as a derivative, like there might be some hint or mark in the back of every block to ease the puzzle.
 
-![GOT puzzle]({{site.baseurl}}/_posts/20190130_121001.jpg)
-
-
-        the-story-of-us/_posts/20190208_094314.jpg
-      
+![GOT puzzle]({{site.baseurl}}/assets/images/2.jpg)
 
 ### Minecraft
 
 [MC](https://en.wikipedia.org/wiki/Minecraft) is really a fantastic game, we raise pigs and sheeps there, farm there.
-![fullsizeoutput_52d.jpeg]({{site.baseurl}}/_posts/fullsizeoutput_52d.jpeg)
+![mc]({{site.baseurl}}/assets/images/5.jpeg)
 
 ### Hongkong and Guangzhou
 I miss the hot pot here.
-![hotpot](the-story-of-us/_posts/20190206_125831.jpg)
+![hotpot]({{site.baseurl}}/assets/images/3.jpg)
 
-![hongkong]({{site.baseurl}}/the-story-of-us/_posts/20190208_094314.jpg)
+![hongkong]({{site.baseurl}}/assets/images/4.jpg)
 
 ### Keyboard
 Miss. He bought this keyboard for me. Hope it can be with me for a really long time.
-![WechatIMG77.jpeg]({{site.baseurl}}/_posts/WechatIMG77.jpeg)
+![WechatIMG77.jpeg]({{site.baseurl}}/assets/images/6.jpeg)
 
 ### the story of us
-![WechatIMG78.jpeg]({{site.baseurl}}/_posts/WechatIMG78.jpeg)
+![WechatIMG78.jpeg]({{site.baseurl}}/assets/images/1.jpeg)
